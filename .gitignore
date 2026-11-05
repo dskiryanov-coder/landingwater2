@@ -1,0 +1,8 @@
+node_modules/
+.playwright-mcp/
+.taste-skill/
+.impeccable/
+.cache/
+artifacts/
+outputs/
+*.zip
